@@ -18,8 +18,10 @@
     <img id="logo" src="./images/SLPL_logo.png" alt="SLPL Logo" />
     
         <ul>
-            <li><a href="./"/>SLPL documentation</li>
-            <li><a href="./User_Stories.xlsx">User Story/DIctionary/Requirement</a></li>
+            <li><a href="./Part1.pdf"/>SLPL documentation</li>
+            <li><a href="./User_Stories.pdf">User Stories</a></li>
+            <li><a href="./Dictionary.pdf">Dictionary</a></li>
+            <li><a href="./BusinessRulesandOthers.pdf">Business Rules and Others</a></li> 
             <li><a href="./artifacts 2.pdf">Artifact</a></li>
          </ul>
        </div>
