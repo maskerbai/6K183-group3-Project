@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2012 for Web
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "LibraryProject", "http://localhost:62366", "{BB3867F4-06CB-4CC3-9B09-1AF9C6131852}"
+	ProjectSection(WebsiteProperties) = preProject
+		UseIISExpress = "true"
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_62366"
+		Debug.AspNetCompiler.PhysicalPath = "..\..\..\..\Desktop\LibraryProject\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_62366\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_62366"
+		Release.AspNetCompiler.PhysicalPath = "..\..\..\..\Desktop\LibraryProject\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_62366\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		SlnRelativePath = "..\..\..\..\Desktop\LibraryProject\"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BB3867F4-06CB-4CC3-9B09-1AF9C6131852}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB3867F4-06CB-4CC3-9B09-1AF9C6131852}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

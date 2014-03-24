@@ -5,7 +5,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head runat="server">
     <title></title>
-</head>
+    <link rel="stylesheet" type="text/css" href="./css/stylesheet.css" /></head>
 <body>
     
     <form id="form1" runat="server">
@@ -15,11 +15,11 @@
         <h2 style="text-align:center;">South Liberty Public Library</h2>
 
         <h3 style="text-align:center;">Documents, Artifacts & Project Management </h3>
-    <img src="./images/SLPL_logo.png" alt="SLPL Logo" />
+    <img id="logo" src="./images/SLPL_logo.png" alt="SLPL Logo" />
     
         <ul>
             <li><a href="./"/>SLPL documentation</li>
-            <li><a href="./">User Story/DIctionary/Requirement</a></li>
+            <li><a href="./User_Stories.xlsx">User Story/DIctionary/Requirement</a></li>
             <li><a href="./artifacts 2.pdf">Artifact</a></li>
          </ul>
        </div>
